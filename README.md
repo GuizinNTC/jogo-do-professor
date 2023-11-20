@@ -6,3 +6,5 @@ Meu nome é Guilherme Chmiel
 -Aqui terá trabalho de JavaScript e HTML
 
 -guilherme.chmiel@escola.pr.gov.br
+ 
+  ![]()https://media.tenor.com/M4hf23tX23QAAAAC/byuntear-coringa.gif
